@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MSports</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_detalhe">Detalhe</string>
+    <string name="title_activity_relatorio">Relatorio</string>
+</resources>

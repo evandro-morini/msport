@@ -1,2 +1,2 @@
-# msport
-Trabalho de Android
+Ecommerce app example made in Java (Android)
+Contact: evandro.morini@gmail.com
